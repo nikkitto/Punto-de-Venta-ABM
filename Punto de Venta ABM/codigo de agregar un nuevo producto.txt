@@ -1,0 +1,28 @@
+
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        Double costo = 280;
+        Double viajeEnvio = 65;
+        Double impuestoTarjeta = 1.12;
+        Double precioTarjeta = 0;
+        Double gananciaTarjeta = 0;
+        Double precioEfectivo = 0;
+        Double gananciaEfectivo = 0;
+        Double gananciaPorcentaje = 1.70;
+        
+        precioTarjeta = ((costo + viajeEnvio) * impuestoTarjeta) * gananciaPorcentaje;
+        gananciaTarjeta = precioTarjeta - (costo + viajeEnvio);
+    
+        precioEfectivo = (costo + viajeEnvio) * gananciaPorcentaje;
+        gananciaEfectivo = precioEfectivo - (costo + viajeEnvio);
+        
+        Console.WriteLine("precioTarjeta: {0}", precioTarjeta);
+        Console.WriteLine("gananciaTarjeta: {0}", gananciaTarjeta);
+        Console.WriteLine("precioEfectivo: {0}", precioEfectivo);
+        Console.WriteLine("gananciaEfectivo: {0}", gananciaEfectivo);
+    }
+}

@@ -1,0 +1,133 @@
+C:\Users\nicol\source\repos\Punto de Venta\bin\Debug\Punto de Venta.exe
+C:\Users\nicol\source\repos\Punto de Venta\bin\Debug\Punto de Venta.pdb
+C:\Users\nicol\source\repos\Punto de Venta\obj\Debug\Punto de Venta.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\Punto de Venta\obj\Debug\Punto_de_Venta.formLogin.resources
+C:\Users\nicol\source\repos\Punto de Venta\obj\Debug\Punto_de_Venta.formMenu.resources
+C:\Users\nicol\source\repos\Punto de Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\nicol\source\repos\Punto de Venta\obj\Debug\Punto de Venta.csproj.GenerateResource.cache
+C:\Users\nicol\source\repos\Punto de Venta\obj\Debug\Punto de Venta.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\Punto de Venta\obj\Debug\Punto de Venta.exe
+C:\Users\nicol\source\repos\Punto de Venta\obj\Debug\Punto de Venta.pdb
+C:\Users\nicol\source\repos\Punto de Venta\obj\Debug\Punto_de_Venta.formVentas.resources
+C:\Users\nicol\source\repos\Punto de Venta\obj\Debug\Punto_de_Venta.formCompras.resources
+C:\Users\nicol\source\repos\Punto de Venta\obj\Debug\Punto_de_Venta.Productos.resources
+C:\Users\Iara\Desktop\Punto de Venta\bin\Debug\Punto de Venta.exe.config
+C:\Users\Iara\Desktop\Punto de Venta\bin\Debug\Punto de Venta.exe
+C:\Users\Iara\Desktop\Punto de Venta\bin\Debug\Punto de Venta.pdb
+C:\Users\Iara\Desktop\Punto de Venta\obj\Debug\Punto de Venta.csproj.AssemblyReference.cache
+C:\Users\Iara\Desktop\Punto de Venta\obj\Debug\Punto de Venta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Iara\Desktop\Punto de Venta\obj\Debug\Punto_de_Venta.formLogin.resources
+C:\Users\Iara\Desktop\Punto de Venta\obj\Debug\Punto_de_Venta.formMenu.resources
+C:\Users\Iara\Desktop\Punto de Venta\obj\Debug\Punto_de_Venta.Productos.resources
+C:\Users\Iara\Desktop\Punto de Venta\obj\Debug\Punto_de_Venta.formVentas.resources
+C:\Users\Iara\Desktop\Punto de Venta\obj\Debug\Punto_de_Venta.formCompras.resources
+C:\Users\Iara\Desktop\Punto de Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\Iara\Desktop\Punto de Venta\obj\Debug\Punto de Venta.csproj.GenerateResource.cache
+C:\Users\Iara\Desktop\Punto de Venta\obj\Debug\Punto de Venta.csproj.CoreCompileInputs.cache
+C:\Users\Iara\Desktop\Punto de Venta\obj\Debug\Punto de Venta.exe
+C:\Users\Iara\Desktop\Punto de Venta\obj\Debug\Punto de Venta.pdb
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra\bin\Debug\Punto de Venta.exe.config
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra\bin\Debug\Punto de Venta.exe
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra\bin\Debug\Punto de Venta.pdb
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto de Venta.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto de Venta.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto_de_Venta.formLogin.resources
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto_de_Venta.formMenu.resources
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto_de_Venta.Productos.resources
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto_de_Venta.formVentas.resources
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto_de_Venta.formCompras.resources
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto de Venta.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto de Venta.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto de Venta.exe
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto de Venta.pdb
+C:\Users\Iara\Desktop\Punto de Venta - Avanzado ginebra\bin\Debug\Punto de Venta.exe.config
+C:\Users\Iara\Desktop\Punto de Venta - Avanzado ginebra\bin\Debug\Punto de Venta.exe
+C:\Users\Iara\Desktop\Punto de Venta - Avanzado ginebra\bin\Debug\Punto de Venta.pdb
+C:\Users\Iara\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto de Venta.csproj.AssemblyReference.cache
+C:\Users\Iara\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto de Venta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Iara\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto_de_Venta.formLogin.resources
+C:\Users\Iara\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto_de_Venta.formMenu.resources
+C:\Users\Iara\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto_de_Venta.Productos.resources
+C:\Users\Iara\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto_de_Venta.formVentas.resources
+C:\Users\Iara\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto_de_Venta.formCompras.resources
+C:\Users\Iara\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\Iara\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto de Venta.csproj.GenerateResource.cache
+C:\Users\Iara\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto de Venta.csproj.CoreCompileInputs.cache
+C:\Users\Iara\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto de Venta.exe
+C:\Users\Iara\Desktop\Punto de Venta - Avanzado ginebra\obj\Debug\Punto de Venta.pdb
+C:\Users\nicol\Downloads\Punto de Venta - Avanzado ginebra 02\bin\Debug\Punto de Venta.exe.config
+C:\Users\nicol\Downloads\Punto de Venta - Avanzado ginebra 02\bin\Debug\Punto de Venta.exe
+C:\Users\nicol\Downloads\Punto de Venta - Avanzado ginebra 02\bin\Debug\Punto de Venta.pdb
+C:\Users\nicol\Downloads\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto de Venta.csproj.AssemblyReference.cache
+C:\Users\nicol\Downloads\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto de Venta.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\Downloads\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto_de_Venta.formLogin.resources
+C:\Users\nicol\Downloads\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto_de_Venta.formMenu.resources
+C:\Users\nicol\Downloads\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto_de_Venta.Productos.resources
+C:\Users\nicol\Downloads\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto_de_Venta.formVentas.resources
+C:\Users\nicol\Downloads\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto_de_Venta.formCompras.resources
+C:\Users\nicol\Downloads\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\nicol\Downloads\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto de Venta.csproj.GenerateResource.cache
+C:\Users\nicol\Downloads\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto de Venta.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Downloads\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto de Venta.exe
+C:\Users\nicol\Downloads\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto de Venta.pdb
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra 02\bin\Debug\Punto de Venta.exe.config
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra 02\bin\Debug\Punto de Venta.exe
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra 02\bin\Debug\Punto de Venta.pdb
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto de Venta.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto de Venta.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto_de_Venta.formLogin.resources
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto_de_Venta.formMenu.resources
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto_de_Venta.Productos.resources
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto_de_Venta.formVentas.resources
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto_de_Venta.formCompras.resources
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto de Venta.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto de Venta.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto de Venta.exe
+C:\Users\nicol\Desktop\Punto de Venta - Avanzado ginebra 02\obj\Debug\Punto de Venta.pdb
+C:\Users\nicol\Desktop\Punto de Venta - 24-11 17.26hs\obj\Debug\Punto de Venta.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\Punto de Venta - 24-11 17.26hs\obj\Debug\Punto de Venta.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\Desktop\Punto de Venta - 24-11 17.26hs\obj\Debug\Punto_de_Venta.formLogin.resources
+C:\Users\nicol\Desktop\Punto de Venta - 24-11 17.26hs\obj\Debug\Punto_de_Venta.formMenu.resources
+C:\Users\nicol\Desktop\Punto de Venta - 24-11 17.26hs\obj\Debug\Punto_de_Venta.Productos.resources
+C:\Users\nicol\Desktop\Punto de Venta - 24-11 17.26hs\obj\Debug\Punto_de_Venta.formVentas.resources
+C:\Users\nicol\Desktop\Punto de Venta - 24-11 17.26hs\obj\Debug\Punto_de_Venta.formCompras.resources
+C:\Users\nicol\Desktop\Punto de Venta - 24-11 17.26hs\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\nicol\Desktop\Punto de Venta - 24-11 17.26hs\obj\Debug\Punto de Venta.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\Punto de Venta - 24-11 17.26hs\obj\Debug\Punto de Venta.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Punto de Venta - 24-11 17.26hs\obj\Debug\Punto de Venta.exe
+C:\Users\nicol\Desktop\Punto de Venta - 24-11 17.26hs\obj\Debug\Punto de Venta.pdb
+C:\Users\nicol\Desktop\Punto de Venta - 24-11 17.26hs\bin\Debug\Punto de Venta.exe.config
+C:\Users\nicol\Desktop\Punto de Venta - 24-11 17.26hs\bin\Debug\Punto de Venta.exe
+C:\Users\nicol\Desktop\Punto de Venta - 24-11 17.26hs\bin\Debug\Punto de Venta.pdb
+C:\Users\nicol\Desktop\Punto de Venta - 25-11 09.26hs\bin\Debug\Punto de Venta.exe.config
+C:\Users\nicol\Desktop\Punto de Venta - 25-11 09.26hs\bin\Debug\Punto de Venta.exe
+C:\Users\nicol\Desktop\Punto de Venta - 25-11 09.26hs\bin\Debug\Punto de Venta.pdb
+C:\Users\nicol\Desktop\Punto de Venta - 25-11 09.26hs\obj\Debug\Punto de Venta.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\Punto de Venta - 25-11 09.26hs\obj\Debug\Punto de Venta.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\Desktop\Punto de Venta - 25-11 09.26hs\obj\Debug\Punto_de_Venta.formLogin.resources
+C:\Users\nicol\Desktop\Punto de Venta - 25-11 09.26hs\obj\Debug\Punto_de_Venta.formMenu.resources
+C:\Users\nicol\Desktop\Punto de Venta - 25-11 09.26hs\obj\Debug\Punto_de_Venta.Productos.resources
+C:\Users\nicol\Desktop\Punto de Venta - 25-11 09.26hs\obj\Debug\Punto_de_Venta.formVentas.resources
+C:\Users\nicol\Desktop\Punto de Venta - 25-11 09.26hs\obj\Debug\Punto_de_Venta.formCompras.resources
+C:\Users\nicol\Desktop\Punto de Venta - 25-11 09.26hs\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\nicol\Desktop\Punto de Venta - 25-11 09.26hs\obj\Debug\Punto de Venta.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\Punto de Venta - 25-11 09.26hs\obj\Debug\Punto de Venta.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Punto de Venta - 25-11 09.26hs\obj\Debug\Punto de Venta.exe
+C:\Users\nicol\Desktop\Punto de Venta - 25-11 09.26hs\obj\Debug\Punto de Venta.pdb
+C:\Users\nicol\Desktop\Punto de Venta - 27-11 12.45hs\bin\Debug\Punto de Venta.exe.config
+C:\Users\nicol\Desktop\Punto de Venta - 27-11 12.45hs\bin\Debug\Punto de Venta.exe
+C:\Users\nicol\Desktop\Punto de Venta - 27-11 12.45hs\bin\Debug\Punto de Venta.pdb
+C:\Users\nicol\Desktop\Punto de Venta - 27-11 12.45hs\obj\Debug\Punto de Venta.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\Punto de Venta - 27-11 12.45hs\obj\Debug\Punto de Venta.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\Desktop\Punto de Venta - 27-11 12.45hs\obj\Debug\Punto_de_Venta.formLogin.resources
+C:\Users\nicol\Desktop\Punto de Venta - 27-11 12.45hs\obj\Debug\Punto_de_Venta.formMenu.resources
+C:\Users\nicol\Desktop\Punto de Venta - 27-11 12.45hs\obj\Debug\Punto_de_Venta.Productos.resources
+C:\Users\nicol\Desktop\Punto de Venta - 27-11 12.45hs\obj\Debug\Punto_de_Venta.formVentas.resources
+C:\Users\nicol\Desktop\Punto de Venta - 27-11 12.45hs\obj\Debug\Punto_de_Venta.formCompras.resources
+C:\Users\nicol\Desktop\Punto de Venta - 27-11 12.45hs\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\nicol\Desktop\Punto de Venta - 27-11 12.45hs\obj\Debug\Punto de Venta.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\Punto de Venta - 27-11 12.45hs\obj\Debug\Punto de Venta.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Punto de Venta - 27-11 12.45hs\obj\Debug\Punto de Venta.exe
+C:\Users\nicol\Desktop\Punto de Venta - 27-11 12.45hs\obj\Debug\Punto de Venta.pdb
